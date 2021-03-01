@@ -1,4 +1,4 @@
-# Employee s profile HTML page generator
+# Employees profile HTML page generator
 
 ## Description
 
